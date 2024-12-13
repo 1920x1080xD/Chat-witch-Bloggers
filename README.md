@@ -1,4 +1,4 @@
-# Chat-witch-Bloggers
+# Chat-with-Bloggers
 Privacy Policy
 
 Политика конфиденциальности для приложения Chat with Bloggers
